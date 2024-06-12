@@ -1,4 +1,4 @@
-package comp;
+package org.comp;
 
 import java.util.List;
 import org.comp.MaxSum;
